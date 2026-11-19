@@ -2,7 +2,7 @@
 
 Aplicação web responsiva de e-commerce desenvolvida como projeto de conclusão do módulo de **Front-end** do programa **Geração Tech**. O sistema foi construído com foco em arquitetura modular de componentes, tipagem estática e experiência mobile-first, seguindo fielmente as especificações do design system no Figma.
 
-🔗 **Acesse o projeto online:** [Em breve — link do deploy]
+🔗 **Acesse o projeto online:** [Em breve — link do deploy](https://projeto-digital-store-pied.vercel.app/)
 
 ---
 
